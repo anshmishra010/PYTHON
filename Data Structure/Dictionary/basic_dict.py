@@ -1,0 +1,10 @@
+dict = {'roll_num ':'190','name':'ansh','surname':'mishra'}
+print("roll nnumber ",dict['roll_num '])
+print("name ",dict['name'])
+print("surname ",dict['surname'])
+print(sorted(dict.keys()))
+print(sorted(dict.values()))
+print("surname popped ",dict.pop('surname'))
+print(dict)
+dict.clear()
+print(dict)
