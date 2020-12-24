@@ -1,0 +1,5 @@
+Difference between LIST  vs TUPLE vs SET vs DICTIONARY
+* Tuples are lists which cannot be edited. While tuples are immutable, lists on the other hand are mutable.Hence, they can be easily edited. Tuples have fixed size, so you cannot add or delete items from it. But you can easily add or delete elements in a list.
+* Due to mutability diff tuple are easier on memory and processor in comparison to list. u can easily achieve performance in tuple .
+* Set are used to stored unordered data and do not have index And u cannot store duplicate values in set.
+* dictionary is used  to store key value pairs or data is stored in key and value form
